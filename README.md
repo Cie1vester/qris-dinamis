@@ -8,7 +8,7 @@ This library helps you **parse** existing QRIS payloads and **generate** new QR 
 ## Installation
 
 ```bash
-npm install qris-dinamis
+npm install Cie1vester/qris-dinamis
 ```
 
 ---
